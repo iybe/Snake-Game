@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #2b2b2b;
+}
+
+#jogo {
+    background-color: white;
+    width: 72%;
+    height: 80%;    
+    margin-left: 14%;
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+#pontos {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 35;
+    padding: 0;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
